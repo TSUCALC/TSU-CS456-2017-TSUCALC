@@ -3,4 +3,4 @@ Algebra Calculator by
 Demauri Portis,
 Gustavo Leal,
 Ali,
-Hussian
+Hussain
