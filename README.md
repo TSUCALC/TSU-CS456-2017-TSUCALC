@@ -1,2 +1,6 @@
 # TSU-CS456-2017-TSUCALC
-Algebra Calculator
+Algebra Calculator by 
+Demauri Portis
+Gustavo Leal
+Ali
+Hussian
